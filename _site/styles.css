@@ -23,16 +23,95 @@ body.page-about .btn-primary {
 body.page-about .column:nth-child(2) .btn {
   margin-top: 1rem;
 }
+/* FULL-VIEW BACKGROUND ON SKILLS PAGE */
+body.page-skills {
+  background: url('images/Sk.png') no-repeat center center fixed;
+  background-size: cover;
+}
 
-.social-links {
-  display: flex;
-  gap: 1rem;
-  margin-top: 1.5rem;
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-skills .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
 }
-.social-links i {
-  font-size: 1.5rem;
-  color: var(--quarto-color-fg);
+body.page-experience {
+  background: url('images/expo.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
-.social-links a:hover i {
-  color: var(--quarto-color-primary);
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-experience .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
+}
+body.page-projects {
+  background: url('images/project.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-projects .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
+}
+body.page-education {
+  background: url('images/edu.jpeg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-education .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
+}
+body.page-certfication {
+  background: url('images/cert.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-certification .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
+}
+body.page-about {
+  background: url('images/about.jpeg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-about .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
+}
+body.page-contacts {
+  background: url('images/contact.webp') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Optional: wrap your content in a semi-transparent panel */
+body.page-contacts .page-content {
+  background-color: rgba(255,255,255,0.8);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  max-width: 900px;           /* optional: constrain width */
+  margin: 2rem auto;          /* center it with top/bottom margin */
 }
