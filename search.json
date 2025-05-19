@@ -14,18 +14,11 @@
     "text": "Digital Transformation: CRM Implementation\nDesigned and implemented a CRM system to streamline customer relationship management. Conducted a cost-benefit analysis and created process flowcharts for smooth implementation.\nEnergy Consumption Prediction (Python)\nAnalyzed energy consumption datasets using Python, performing data preprocessing and correlation analysis to predict energy usage patterns.\nIoT & Blockchain in Agri-Food Supply Chain\nStudied the impact of IoT and blockchain on improving transparency and efficiency in Agri-Food logistics, helping to optimize supply chain processes."
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Preofessional Experience",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "Branch Manager | Vianet Communication Pvt. Ltd. (2020 - 2023)\n\nSupervised and managed daily branch operations.\nDeveloped and implemented marketing strategies to achieve branch targets.\nLed teams to enhance customer satisfaction by providing tailored internet solutions\n\n\n\nSystem and Network Monitoring Engineer | Vianet Communication Pvt. Ltd. (2019 - 2020)\n\nManaged network infrastructure, including Cisco and Juniper routers and firewalls.\nOptimized network performance using tools like MRTG and Wireshark.\nConfigured and troubleshooted networking protocols to ensure seamless connectivity.\n\n\n\nTechnical Support Executive | Vianet Communication Pvt. Ltd. (2018 - 2019)\n\nProvided technical support for internet and IPTV services, resolving customer issues.\nEnhanced technical troubleshooting skills in LAN, Wi-Fi, and internet connectivity."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi, I am Sanjiv Dulal, an experienced IT professional. I bring a strong background in network support, technical operations, and a growing focus on cloud technology and data analytics. Over the years, I have developed a comprehensive skill set in network management, SQL troubleshooting, and performance optimization. Currently, I am pursuing an MBA at University Canada West and expanding my knowledge in emerging technologies such as Machine Learning, Cloud Computing, and Predictive Analytics.\n\n\n\nDownload My Resume\nDownload My Cover Letter"
+    "text": "Master of Business Administration (MBA)\nUniversity Canada West (2023 - Present)\nCourses: Cloud Computing, Business Analytics, Machine Learning, Strategic Management\nBachelor of Science in Information Management Systems (B.Sc. IMS)\nBusiness and Information Technology School (BITS), Sikkim Manipal University (2018)\nGlobal Infrastructure Management Service (GIMS)\nIndian Institute of Hardware and Technology (IIHT) (2016)"
   },
   {
     "objectID": "certification.html",
@@ -35,17 +28,24 @@
     "text": "Cisco Certified Network Associate (CCNA) - Cisco ID: CSC013254507\nDigital Marketing Associate"
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Master of Business Administration (MBA)\nUniversity Canada West (2023 - Present)\nCourses: Cloud Computing, Business Analytics, Machine Learning, Strategic Management\nBachelor of Science in Information Management Systems (B.Sc. IMS)\nBusiness and Information Technology School (BITS), Sikkim Manipal University (2018)\nGlobal Infrastructure Management Service (GIMS)\nIndian Institute of Hardware and Technology (IIHT) (2016)"
+    "text": "Hi, I am Sanjiv Dulal, an experienced IT professional. I bring a strong background in network support, technical operations, and a growing focus on cloud technology and data analytics. Over the years, I have developed a comprehensive skill set in network management, SQL troubleshooting, and performance optimization. Currently, I am pursuing an MBA at University Canada West and expanding my knowledge in emerging technologies such as Machine Learning, Cloud Computing, and Predictive Analytics.\n\n\n\nDownload My Resume\nDownload My Cover Letter"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MBA Portfolio",
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "📧 sanjip216@gmail.com\n📞 +1 778-682-0964"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Preofessional Experience",
+    "section": "",
+    "text": "Branch Manager | Vianet Communication Pvt. Ltd. (2020 - 2023)\n\nSupervised and managed daily branch operations.\nDeveloped and implemented marketing strategies to achieve branch targets.\nLed teams to enhance customer satisfaction by providing tailored internet solutions\n\n\n\nSystem and Network Monitoring Engineer | Vianet Communication Pvt. Ltd. (2019 - 2020)\n\nManaged network infrastructure, including Cisco and Juniper routers and firewalls.\nOptimized network performance using tools like MRTG and Wireshark.\nConfigured and troubleshooted networking protocols to ensure seamless connectivity.\n\n\n\nTechnical Support Executive | Vianet Communication Pvt. Ltd. (2018 - 2019)\n\nProvided technical support for internet and IPTV services, resolving customer issues.\nEnhanced technical troubleshooting skills in LAN, Wi-Fi, and internet connectivity."
   }
 ]
