@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+# Welcome to My Portfolio
+
+Hi, I’m **Sanjiv Dulal**, an MBA students & IT professional specializing in cloud, data analytics, and network operations.
+
+-   [About Me](about.qmd)
+-   [Skills](skills.qmd)
+-   [Experience](experience.qmd)
+-   [Projects](projects.qmd)
+-   [Education](education.qmd)
+-   [Certification](certification.qmd)
+-   [Contact](contacts.qmd)
