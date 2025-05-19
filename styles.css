@@ -1,0 +1,38 @@
+.columns {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+}
+body.page-about .quarto-title {
+  display: none !important;
+}
+/* only push down the resume button on the About page */
+body.page-about .btn-primary {
+  margin-top: 2rem;
+}
+/* push the buttons and icons down a bit */
+body.page-about .column:nth-child(2) .btn {
+  margin-top: 1rem;
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.social-links i {
+  font-size: 1.5rem;
+  color: var(--quarto-color-fg);
+}
+.social-links a:hover i {
+  color: var(--quarto-color-primary);
+}
