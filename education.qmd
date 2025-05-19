@@ -1,6 +1,16 @@
 ---
 title: "Education"
 ---
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/edu.jpeg') center/cover no-repeat;
+   z-index: -1;
+"></div>
+---
 
 **Master of Business Administration (MBA)**\
 *University Canada West* *(2023 - Present)*\

@@ -1,6 +1,16 @@
 ---
 title: "Certfication"
 ---
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/cert.jpg') center/cover no-repeat;
+   z-index: -1;
+"></div>
+---
 
 -   **Cisco Certified Network Associate (CCNA)** - Cisco ID: *CSC013254507*
 

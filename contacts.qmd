@@ -1,3 +1,20 @@
 ---
 title: "Contacts"
 ---
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/contact.webp') center/cover no-repeat;
+   z-index: -1;
+"></div>
+---
+
+# 
+
+-   📧 [sanjip216\@gmail.com](mailto:sanjip216@gmail.com)
+-   📞 [+1 778-682-0964](tel:+17786820964)
+
+------------------------------------------------------------------------

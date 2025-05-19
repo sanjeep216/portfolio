@@ -1,6 +1,23 @@
 ---
 title: "Skills"
+title-block: none
 ---
+
+```{=html}
+
+
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/Sk.png') center/cover no-repeat;
+   z-index: -1;
+"></div>
+```
+
+------------------------------------------------------------------------
 
 -   **Networking Technologies**: Routing Protocols, LAN/WAN, VLANs, TCP/IP, DNS, DHCP, VPN, SNMP, OSI Model
 

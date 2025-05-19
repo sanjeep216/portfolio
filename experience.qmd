@@ -1,6 +1,18 @@
 ---
 title: "Preofessional Experience"
 ---
+<!-- full-page background behind everything -->
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/expo.jpg') center/cover no-repeat;
+   z-index: -1;
+"></div>
+
+---
 
 #### **Branch Manager \| Vianet Communication Pvt. Ltd.** *(2020 - 2023)*
 

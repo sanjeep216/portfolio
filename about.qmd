@@ -10,9 +10,18 @@ about:
 format:
   html:
     theme:
-      light: cosmo
       dark: darkly
     css: styles.css
+---
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/about.jpeg') center/cover no-repeat;
+   z-index: -1;
+"></div>
 ---
 
 ::::: columns

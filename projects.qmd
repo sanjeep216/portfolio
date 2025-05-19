@@ -1,6 +1,16 @@
 ---
 title: "Academic Projects"
 ---
+<div style="
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: url('images/project.jpg') center/cover no-repeat;
+   z-index: -1;
+"></div>
+---
 
 -   **Digital Transformation: CRM Implementation**\
     Designed and implemented a CRM system to streamline customer relationship management. Conducted a cost-benefit analysis and created process flowcharts for smooth implementation.
