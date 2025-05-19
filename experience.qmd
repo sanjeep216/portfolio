@@ -1,0 +1,25 @@
+---
+title: "Preofessional Experience"
+---
+
+#### **Branch Manager \| Vianet Communication Pvt. Ltd.** *(2020 - 2023)*
+
+-   Supervised and managed daily branch operations.
+
+-   Developed and implemented marketing strategies to achieve branch targets.
+
+-   Led teams to enhance customer satisfaction by providing tailored internet solutions
+
+#### **System and Network Monitoring Engineer \| Vianet Communication Pvt. Ltd.** *(2019 - 2020)*
+
+-   Managed network infrastructure, including Cisco and Juniper routers and firewalls.
+
+-   Optimized network performance using tools like MRTG and Wireshark.
+
+-   Configured and troubleshooted networking protocols to ensure seamless connectivity.
+
+#### **Technical Support Executive \| Vianet Communication Pvt. Ltd.** *(2018 - 2019)*
+
+-   Provided technical support for internet and IPTV services, resolving customer issues.
+
+-   Enhanced technical troubleshooting skills in LAN, Wi-Fi, and internet connectivity.

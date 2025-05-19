@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "MBA Portfolio"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About Me
+      - href: skills.qmd
+        text: Skills
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: education.qmd
+        text: Education
+      - href: certification.qmd
+        text: Certification
+      - href: contacts.qmd
+        text: Contacts
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true

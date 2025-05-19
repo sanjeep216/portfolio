@@ -1,0 +1,12 @@
+---
+title: "Academic Projects"
+---
+
+-   **Digital Transformation: CRM Implementation**\
+    Designed and implemented a CRM system to streamline customer relationship management. Conducted a cost-benefit analysis and created process flowcharts for smooth implementation.
+
+-   **Energy Consumption Prediction** *(Python)*\
+    Analyzed energy consumption datasets using Python, performing data preprocessing and correlation analysis to predict energy usage patterns.
+
+-   **IoT & Blockchain in Agri-Food Supply Chain**\
+    Studied the impact of IoT and blockchain on improving transparency and efficiency in Agri-Food logistics, helping to optimize supply chain processes.

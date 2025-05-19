@@ -1,0 +1,11 @@
+---
+title: "Skills"
+---
+
+-   **Networking Technologies**: Routing Protocols, LAN/WAN, VLANs, TCP/IP, DNS, DHCP, VPN, SNMP, OSI Model
+
+-   **Network Tools & Devices**: MRTG Network Monitor, Wireshark, Microsoft Visio, Cisco routers, switches, firewalls, wireless access points, Juniper
+
+-   **Programming & Scripting**: Python for Machine Learning, SQL, HTML
+
+-   **Soft Skills**: Troubleshooting, Team Leadership, Collaboration

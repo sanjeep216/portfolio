@@ -1,0 +1,32 @@
+---
+title: "About Me"
+about: 
+ template: marquee
+ links: 
+   - icon: linkedin
+   - href: https://www.linkedin.com/in/sanjiv-dulal-3914a9156/
+   - icon: instagram
+   - href: https://www.instagram.com/sanjeep_d/
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/profile.jpg){.profile-img alt="Sanjiv Dulal"}
+:::
+
+::: {.column width="70%"}
+Hi, I am Sanjiv Dulal, an experienced IT professional. I bring a strong background in network support, technical operations, and a growing focus on cloud technology and data analytics. Over the years, I have developed a comprehensive skill set in network management, SQL troubleshooting, and performance optimization. Currently, I am pursuing an MBA at University Canada West and expanding my knowledge in emerging technologies such as Machine Learning, Cloud Computing, and Predictive Analytics.
+:::
+:::::
+
+::: {.column width="70%"}
+[Download My Resume](files/Sanjiv_Dulal_Resume.pdf){.btn .btn-primary target="_blank"}
+
+[Download My Cover Letter](files/Cover_Letter_Sanjiv_Dulal.pdf){.btn .btn-secondary target="_blank"}
+:::

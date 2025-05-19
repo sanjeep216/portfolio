@@ -1,0 +1,13 @@
+---
+title: "Education"
+---
+
+**Master of Business Administration (MBA)**\
+*University Canada West* *(2023 - Present)*\
+Courses: Cloud Computing, Business Analytics, Machine Learning, Strategic Management
+
+**Bachelor of Science in Information Management Systems (B.Sc. IMS)**\
+*Business and Information Technology School (BITS), Sikkim Manipal University* *(2018)*
+
+**Global Infrastructure Management Service (GIMS)**\
+*Indian Institute of Hardware and Technology (IIHT)* *(2016)*
